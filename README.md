@@ -50,11 +50,11 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## 💻 Open-Source GitHub Projects
 
-- **[Trivy](https://github.com/aquasecurity/trivy)** [![Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers)  
-  Comprehensive and versatile security scanner.
-
 - **[Gitleaks](https://github.com/zricethezav/gitleaks)** [![Stars](https://img.shields.io/github/stars/zricethezav/gitleaks?style=social&color=white)](https://github.com/zricethezav/gitleaks/stargazers)  
   Protect and discover secrets using Gitleaks.
+
+- **[Trivy](https://github.com/aquasecurity/trivy)** [![Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers)  
+  Comprehensive and versatile security scanner.
 
 - **[OpenSSF Scorecard](https://github.com/ossf/scorecard)** [![Stars](https://img.shields.io/github/stars/ossf/scorecard?style=social&color=white)](https://github.com/ossf/scorecard/stargazers)  
   Open-source tool from the Open Source Security Foundation that automatically scores software repositories on security best practices and supply-chain risk indicators.
