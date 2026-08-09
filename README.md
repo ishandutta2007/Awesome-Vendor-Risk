@@ -22,36 +22,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[OneTrust Third-Party Risk Management](https://www.onetrust.com/)**  
-  Enterprise GRC and third-party risk platform offering vendor assessments, continuous monitoring, due diligence workflows, and broad compliance coverage.
-
-- **[SecurityScorecard](https://securityscorecard.com/)**  
-  Security ratings platform that continuously scores organizations and their vendors on external security posture with threat intelligence insights.
-
-- **[UpGuard](https://www.upguard.com/)**  
-  Vendor risk and breach risk platform combining security ratings, questionnaire automation, continuous monitoring, and evidence workflows.
-
-- **[BitSight](https://www.bitsight.com/)**  
-  Cyber risk intelligence and security ratings platform used for portfolio-level third-party risk monitoring and quantification.
-
-- **[Whistic](https://www.whistic.com/)**  
-  Vendor assessment network focused on standardized questionnaires, trust profiles, and efficient evidence sharing between customers and vendors.
-
-- **[Vanta](https://www.vanta.com/)**  
-  Compliance and trust management platform that includes vendor risk review capabilities within broader security and compliance workflows.
-
-- **[ProcessUnity](https://www.processunity.com/)**  
-  Highly configurable enterprise third-party risk management platform supporting complex assessment and remediation processes.
-
-- **[Panorays](https://www.panorays.com/)**  
-  Third-party risk platform combining automated security assessments with external attack-surface and posture monitoring.
-
-- **[Black Kite](https://blackkite.com/)**  
-  Cyber risk quantification and third-party risk platform that translates security findings into financial risk insights.
-
-- **[Prevalent](https://www.prevalent.net/)**  
-  Dedicated third-party risk management solution covering the full vendor lifecycle from onboarding through continuous monitoring and offboarding.
-
+| Platform | Description | Pricing | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **[OneTrust Third-Party Risk Management](https://www.onetrust.com/)** | Enterprise GRC and third-party risk platform offering vendor assessments, continuous monitoring, due diligence workflows, and broad compliance coverage. | Starts at ~$10,000/year | No free tier or trial available |
+| **[SecurityScorecard](https://securityscorecard.com/)** | Security ratings platform that continuously scores organizations and their vendors on external security posture with threat intelligence insights. | Quote required (Business, Enterprise, MAX) | 14-day Business trial (up to 5 vendors); Permanent free version for self-monitoring |
+| **[UpGuard](https://www.upguard.com/)** | Vendor risk and breach risk platform combining security ratings, questionnaire automation, continuous monitoring, and evidence workflows. | $79/month per additional vendor | Free for up to 5 vendors; 14-day free trial |
+| **[BitSight](https://www.bitsight.com/)** | Cyber risk intelligence and security ratings platform used for portfolio-level third-party risk monitoring and quantification. | Quote required (Based on vendor tiers) | 45-day free access (via specific programs); Free Trust Management Hub |
+| **[Whistic](https://www.whistic.com/)** | Vendor assessment network focused on standardized questionnaires, trust profiles, and efficient evidence sharing between customers and vendors. | Quote required | 30-day Compliance Automation trial (10 automated tests); Free Basic Trust Center |
+| **[Vanta](https://www.vanta.com/)** | Compliance and trust management platform that includes vendor risk review capabilities within broader security and compliance workflows. | Quote required (Based on headcount & frameworks) | No free tier or trial available |
+| **[ProcessUnity](https://www.processunity.com/)** | Highly configurable enterprise third-party risk management platform supporting complex assessment and remediation processes. | Starts at ~$25,000/year | No trial for core platform; Free ProcessUnity Risk Index profile |
+| **[Panorays](https://www.panorays.com/)** | Third-party risk platform combining automated security assessments with external attack-surface and posture monitoring. | Quote required (Growth, Professional, Enterprise) | Free Starter Plan (up to 5 vendors, 5 questionnaires) |
+| **[Black Kite](https://blackkite.com/)** | Cyber risk quantification and third-party risk platform that translates security findings into financial risk insights. | Est. ~$29,000/year median contract | No free tier or trial available |
+| **[Prevalent](https://www.prevalent.net/)** | Dedicated third-party risk management solution covering the full vendor lifecycle from onboarding through continuous monitoring and offboarding. | Quote required (Based on modules & vendors) | Free Vendor Threat Monitor (20 vendors); No standard free trial |
 ## Open-Source GitHub Projects
 
 - **[LT-VRM](https://github.com/learntprm-design/lt-vrm)**  
